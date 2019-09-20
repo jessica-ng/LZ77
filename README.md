@@ -1,7 +1,7 @@
 # LZ77
 Compression algorithm of LZ77 written in Python
 
-#Instructions
+## Instructions
 
 1.Place text file that you want to encode in the same directory as python file.
 
